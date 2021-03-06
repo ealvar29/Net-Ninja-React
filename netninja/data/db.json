@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "my new website",
+      "body": "lorem ipsum...",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "my new website",
+      "body": "lorem ipsum...",
+      "author": "Peach",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "author": "Mario",
+      "id": 4
+    },
+    {
+      "title": "1",
+      "body": "2",
+      "author": "Yoshi",
+      "id": 5
+    }
+  ]
+}
